@@ -10,7 +10,7 @@
     @apply relative h-20;
   }
   footer {
-    @apply w-full mt-20 py-12 bg-black/60 rounded-lg;
+    @apply w-full mt-20 py-12 bg-black/60 rounded-t-md;
   }
 }
 
